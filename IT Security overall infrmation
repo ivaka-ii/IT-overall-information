@@ -1,0 +1,34 @@
+Overall IT information
+================================
+The Lightweight Directory Access Protocol (LDAP /ˈɛldæp/) is an open, vendor-neutral, industry standard application protocol for accessing and maintaining 
+distributed directory information services over an !Internet Protocol (IP)! network.[1] Directory services play an important role in developing intranet and 
+Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network.
+As examples, directory services may provide any organized set of records, often with a hierarchical structure, such as a corporate email directory. 
+Similarly, a telephone directory is a list of subscribers with an address and a phone number.
+
+Active Directory
+--------------------------------
+Windows branded LDAP
+
+Metadirectory - combines all the information across all directories with the information about users,policies and etc.
+
+REALM/Security Domain     -- where all users are indentified across all platforms and can be trusted
+! If tehre are multiple realms within directory, you can set federation if you want REALM A TO trust REALM B and likewise
+
+Level of Assurance(LOA)
+------------------------
+there are 4 levels of levels of assurance
+
+There are couple of user attributes, which can be setted/regulated:
+- Email address
+- First name, Last name;
+- group membership
+- roles
+- organisation
+- Application parameters
+
+VPN
+------------------------
+Site-to-site & Remote access(Cisco any access)
+IPsec(internet protocol security)   -- framework used to secure communication over an IP network. It's goal is to ensure integrity, confidentiality and authentication of data
+
