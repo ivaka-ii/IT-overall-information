@@ -1,0 +1,21 @@
+=================================================
+                NAT
+=================================================
+NAT - Network adressing translation
+It is used to translate public IP addresses into private network adresses
+!Process descriptioon
+-First the User's private IP address is sent to NAT, which translates it into public IP address
+and the request is sent over the internet to the corresponding public IP aaddress from the server.
+-The server will return the response over to the host's public IP (the host's NAT device)
+
+
+=================================================
+                Firewall
+=================================================
+Firewall function
+It is security device service appliance that monitors network communication between
+some sorce and some destination deployed across two different networks
+The firewall is deployed between the internal and the external network
+!Stateless firewall     -- if somebody has access to the network, he is permitted to go through
+!Stateful firewall      -- it monitors the conversation between the source and destination
+!Application firewall   -- it is corresponding deeper in the source and destination traffic and determines the exact type of this traffic(what service is for)
