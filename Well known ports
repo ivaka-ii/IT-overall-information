@@ -9,7 +9,7 @@ PORT NUMBER	    |TRANSPORT PROTOCOL |			SERVICE NAME						RFC
 69			        |		    UDP			    |Trivial File Transfer Protocol (TFTP)	RFC 1350
 80			        |		    TCP			    |HyperText Transfer Protocol (HTTP)		RFC 2616
 110			        |		    TCP			    |Post Office Protocol (POP3)				RFC 1939
-119			        |		    TCP			    |Network News Transport Protocol (NNTP)	RFC 8977
+119			        |		    TCP			    |Network News Transport Protocol (NTP)	RFC 8977
 123			        |		    UDP	  		  |Network Time Protocol (NTP)				RFC 5905
 135-139		      | 	TCP and UDP		  |NetBIOS									RFC 1001-1002
 143			        |	  TCP and UDP		  |Internet Message Access Protocol (IMAP4) RFC 3501
