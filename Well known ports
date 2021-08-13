@@ -20,3 +20,4 @@ PORT NUMBER	    |TRANSPORT PROTOCOL |			SERVICE NAME						RFC
 500			        |	      UDP			    |Internet Security Association and Key Management Protocol (ISAKMP) / Internet Key Exchange (IKE)	RFC 2408 - 2409
 636			        |	  TCP and UDP		  |Lightweight Directory Access Protocol over TLS/SSL (LDAPS	RFC 4513
 989/990		      |	     TCP			    |FTP over TLS/SSL						    RFC 4217
+3389            |   TCP and UPD     |Remote Desktop Protocol (RDP)
