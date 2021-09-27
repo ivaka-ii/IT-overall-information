@@ -8,6 +8,7 @@ It is used to translate public IP addresses into private network adresses
 and the request is sent over the internet to the corresponding public IP aaddress from the server.
 -The server will return the response over to the host's public IP (the host's NAT device)
 
+https://cidr.xyz/
 
 =================================================
                 Firewall
