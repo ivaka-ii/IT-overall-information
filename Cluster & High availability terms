@@ -1,0 +1,9 @@
+Cluster & High availability terms
+==================================
+Mean Time Before Failure(MTBF)    -- the average operational only time between system failures
+
+Mean Time To Repair (MTTR)      -- the average amount of time needed to troubleshoot and repair a failed system and bring it back to oprational state
+
+Service Level Agreement (SLA)   -- contract btw a provider and consumer that sets the service reliability expectations
+
+Disaster Recovery (DR)        -- set of measures that are used in case of a resource or service becomes unavailable
