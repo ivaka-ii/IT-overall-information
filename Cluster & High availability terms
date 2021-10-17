@@ -7,3 +7,17 @@ Mean Time To Repair (MTTR)      -- the average amount of time needed to troubles
 Service Level Agreement (SLA)   -- contract btw a provider and consumer that sets the service reliability expectations
 
 Disaster Recovery (DR)        -- set of measures that are used in case of a resource or service becomes unavailable
+
+Cluster Types
+----------------------------------
+High Performance 		-- clusters that are a set of different machines working together hosting one or more tasks that require lots of computing resources
+
+Load Balancing 			-- clusters serves as frond-end and receive client requests which then get distributed to different number servers
+
+High Availability(Failover)		-- clusters that aim on reducing the downtime of critical resources to a minimum
+
+Cluster Architectures
+----------------------------------
+Active/Passive			-- usually consist of one active node that serves client requests and one or more backup nodes. Usually implemented as a failover cluster
+
+Active/Active/Ac		-- clusters typically consist of two identical nodes both servicing client requests. Usually achieved via a load balancing
